@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # The rise of China in World University Rankings
-## Rankings 2011 - 2023*. 
+## Rankings 2011 - 2023*
 <sup>*Years 2020, 2017 and 2016 not available.</sup>
 
 <p align="center">
