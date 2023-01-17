@@ -14,7 +14,7 @@ Canada has ranked consistently in the top 100, but has less universities than Ch
 
 
 ## Demo 
-![](https://github.com/aleivaar94/University-World-Rankings-2023/blob/master/assets/Bar-chart-race.mp4)
+![](https://github.com/aleivaar94/University-World-Rankings-2023/blob/master/assets/Bar-chart-race-gif.gif)
 
 <sup>Bar chart race made using Flourish.</sup>
 
