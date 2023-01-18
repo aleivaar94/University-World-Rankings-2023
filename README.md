@@ -48,7 +48,7 @@ Postman was used to make a request to dump the data of each year into a json fil
 
 ![](https://github.com/aleivaar94/University-World-Rankings-2023/blob/master/assets/postman.png)
 
-<sup>Make a request using Postman by pasting the link address and making an sending a request. Save the output of the request in a `.json` file.</sup>
+<sup>Make a request using Postman by pasting the link address and making and sending a request. Save the output of the request in a `.json` file.</sup>
 
 
 ### Data Analysis
